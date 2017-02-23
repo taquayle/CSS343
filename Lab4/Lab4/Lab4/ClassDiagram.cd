@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Borrow">
+    <Position X="9.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAEBgAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Borrow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorrowClassic">
+    <Position X="6.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAEAAQAAAIAABAABAgAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BorrowClassic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorrowComedy">
+    <Position X="9.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAQAAAAAABAABAAAAAAAAAAAAAACAAAI=</HashCode>
+      <FileName>BorrowComedy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorrowDrama">
+    <Position X="12.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAQAQAAAAAABAAAAAAABAAAAAAAAACAIAA=</HashCode>
+      <FileName>BorrowDrama.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classic">
+    <Position X="30.25" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQACACBAAQAICCAIIAAAQAAKoAABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comedy">
+    <Position X="24.75" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAAAAAICBAAAAAAQAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>Comedy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command">
+    <Position X="14" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAgAAAACAAACAIDACACAAIAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer">
+    <Position X="5.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ACEgAQAAgABAAAAQAAAACAAAAAAAAABAABIECEAAAgE=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drama">
+    <Position X="27.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAAAAAICAAAAAAAQAAAAAAAAAAAAAgBAAAQAA=</HashCode>
+      <FileName>Drama.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hash&lt;T&gt;">
+    <Position X="2.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAQAAAIAAAIABAAAAYREEIBAgAAAgAAgAAAAA=</HashCode>
+      <FileName>hash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="History">
+    <Position X="12.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAECAAAA=</HashCode>
+      <FileName>History.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="15.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgCAAAA=</HashCode>
+      <FileName>Inventory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movie">
+    <Position X="27.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FAQACACAQQAAPGBAAAAIgQABAAAQAIAABEAgABAAAQA=</HashCode>
+      <FileName>Movie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentalStore">
+    <Position X="20.5" Y="0.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEAABRkACQAAAAEAAAAAAAEACMAAAAADAQAA=</HashCode>
+      <FileName>RentalStore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Return">
+    <Position X="18.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAAgEACAAAA=</HashCode>
+      <FileName>Return.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReturnClassic">
+    <Position X="15.25" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAIAABAABAkAAQAAAAAAAAACAAAA=</HashCode>
+      <FileName>ReturnClassic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReturnComedy">
+    <Position X="18.25" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAQAAAAAABAABAAAAAgAAAgAAAACAAAA=</HashCode>
+      <FileName>ReturnComedy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReturnDrama">
+    <Position X="21.25" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAQAQAYAAAAAABAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ReturnDrama.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
