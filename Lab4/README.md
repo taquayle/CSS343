@@ -1,0 +1,2 @@
+# Problem Description
+Creating a record system for a movie rental store, including a database of customers, each with their own history. And a database of movies, divided by movie type; classic, comedy, and drama being the current selection. The system must be designed in a way to be extensible for any future types of movie genres that the business may use may be easily created. The system must also be able to handle a sorting system that is unique to each type of movie genre the system handles. 
